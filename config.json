@@ -1,0 +1,24 @@
+{
+    "port": 8085,
+    "mongodbUrl": "mongodb://localhost/dbName?poolSize=20",
+    "redis": {
+        "port": 6379,
+        "host": "your redis"
+  },
+
+  "errMsg": [
+    "",
+    ""
+  ],
+  "databaseErr": "数据库错误",
+  "legalUrl": "http://your app url",
+  "tokenValid": 6400,
+  "appSignature": [
+
+  ],
+  "weChat": {
+    "AppID": "you AppID",
+    "AppSecret": "you AppSecret"
+  },
+  "serverUrl": "http://your serverUrl"
+}

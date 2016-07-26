@@ -2,7 +2,7 @@
 based on node.js 
 
 # api
-Directory is the API interfaces with the controller of suffix.
+The folder stores interface documents with suffix of controller.
 
 #cache
 Use publish / subscribe of redis to resolve mongodb synchronization problems.
